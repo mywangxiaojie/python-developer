@@ -1,0 +1,1 @@
+[Python PostgreSQL 教程](https://geek-docs.com/python/python-tutorial/python-psycopg2.html)
