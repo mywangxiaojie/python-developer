@@ -1,1 +1,2 @@
 [Python PostgreSQL 教程](https://geek-docs.com/python/python-tutorial/python-psycopg2.html)
+[Introduction to Psycopg2 module in Python](https://www.geeksforgeeks.org/introduction-to-psycopg2-module-in-python/)
