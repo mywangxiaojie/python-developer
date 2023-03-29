@@ -12,3 +12,7 @@ def base64_to_image(base64_code):
     img = cv2.imdecode(img_array, cv2.COLOR_RGB2BGR)
  
     return img
+
+if __name__ == "__main__":
+    base64 = ''
+    base64_to_image(base64_code=base64)
